@@ -1,7 +1,13 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "admin@coworks.tj",
+      "password": "123456",
+      "role": "owner",
+      "id": 1
+    }
+  ],
   "coworks": [],
-  "blogs": [],
-  "events": [],
-  "contests": []
+  "reviews": [],
+  "favorites": []
 }

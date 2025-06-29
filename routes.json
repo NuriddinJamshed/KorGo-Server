@@ -1,0 +1,3 @@
+{
+  "/coworks/:id/reviews": "/reviews?coworkId=:id"
+}

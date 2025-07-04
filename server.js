@@ -5,7 +5,10 @@ const cors = require("cors");
 const app = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
-const rules = auth.rewriter("./rules.json")
+const rules = auth.rewriter("./rules.json");
+
+// ❗ Обязательно:
+app.db = router.db;
 
 app.use(cors());
 app.use(middlewares);
@@ -15,5 +18,5 @@ app.use(router);
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
-    console.log("Server is running on port", port);
+    console.log("✅ Server is running on port", port);
 });

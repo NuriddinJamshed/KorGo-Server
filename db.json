@@ -14,10 +14,70 @@
       "title": "Impact Hub Dushanbe",
       "city": "Dushanbe",
       "description": "Современное пространство для стартапов и фрилансеров в центре Душанбе.",
-      "image": "https://source.unsplash.com/400x300/?coworking,dushanbe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuwgvrKxFFxcM_eZLBjNmcMT1d5b7QfQ_Vg&s",
       "coordinates": {
         "lat": 38.5598,
         "lng": 68.7870
+      },
+      "authorId": 1
+    },
+    {
+      "id": 1,
+      "title": "Puzzle",
+      "city": "Dushanbe",
+      "description": "Puzzle - Современное пространство для стартапов и фрилансеров в центре Душанбе.",
+      "image": "https://coworker.imgix.net/photos/tajikistan/dushanbe/puzzle/main-1563873452.jpg?w=360&h=206&q=90&auto=format,compress&fit=crop&mark=/template/img/wm_icon.png&markscale=5&markalign=center,middle",
+      "coordinates": {
+        "lat": 38.56274146459911,
+        "lng": 68.8092982847722
+      },
+      "authorId": 1
+    },
+    {
+      "id": 1,
+      "title": "TUT Coworking",
+      "city": "Dushanbe",
+      "description": "TUT Coworking - Современное пространство для стартапов и фрилансеров в центре Душанбе.",
+      "image": "https://www.google.com/maps/place/TUT+Coworking/@38.5809235,68.793786,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMZ8cNLgCxEXIPA0dj-p-pwunGV5W4I28-DIbQh!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMZ8cNLgCxEXIPA0dj-p-pwunGV5W4I28-DIbQh%3Dw203-h270-k-no!7i3024!8i4032!4m15!1m7!3m6!1s0x38b5d1741926d691:0xd704e7335ef264bf!2sTUT+Coworking!8m2!3d38.5809194!4d68.7940102!16s%2Fg%2F11ssdtfnpf!3m6!1s0x38b5d1741926d691:0xd704e7335ef264bf!8m2!3d38.5809194!4d68.7940102!10e5!16s%2Fg%2F11ssdtfnpf?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D#",
+      "coordinates": {
+        "lat": 38.58118778456939,
+        "lng": 68.79396728498973
+      },
+      "authorId": 1
+    },
+    {
+      "id": 1,
+      "title": "Business Incubator Tajikistan",
+      "city": "Dushanbe",
+      "description": "Business Incubator Tajikistan - Современное пространство для стартапов и фрилансеров в центре Душанбе.",
+      "image": "https://www.google.com/maps/place/Business+Incubator+Tajikistan/@38.5744743,68.7910615,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMJoNztV47fQBuR22mbFnoo9B_U8INxcPEhW-sB!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMJoNztV47fQBuR22mbFnoo9B_U8INxcPEhW-sB%3Dw152-h86-k-no!7i1920!8i1080!4m11!1m2!2m1!1scoworkings+near+Bokhtar!3m7!1s0x38b5d14e27967f19:0x66d1bc91e2d2aab7!8m2!3d38.5743505!4d68.7910615!10e5!15sChdjb3dvcmtpbmdzIG5lYXIgQm9raHRhcloZIhdjb3dvcmtpbmdzIG5lYXIgYm9raHRhcpIBHmJ1c2luZXNzX21hbmFnZW1lbnRfY29uc3VsdGFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSS2VqWjZXV2RuUlJBQuABAPoBBAgAECg!16s%2Fg%2F11jdcy59qt?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D#",
+      "coordinates": {
+        "lat": 38.57615183762021,
+        "lng": 68.79209146827982
+      },
+      "authorId": 1
+    },
+    {
+      "id": 1,
+      "title": "Regus Coworking",
+      "city": "Dushanbe",
+      "description": "Regus Coworking - Современное пространство для стартапов и фрилансеров в центре Душанбе.",
+      "image": "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_327,h_245/CentreImagery/Fallbacks/P1_Marketing_Selects/Regus_Ratingen_828_coworking_spaces_4_flash2.CR2.jpg",
+      "coordinates": {
+        "lat": 38.57114833747739,
+        "lng": 68.8020033205342
+      },
+      "authorId": 1
+    },
+    {
+      "id": 1,
+      "title": "Puli Sangin Coworking",
+      "city": "Dushanbe",
+      "description": "Puli Sangin Coworking - Современное пространство для стартапов и фрилансеров в центре Душанбе.",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNJFy4v6ZhI_85ceul4gYCSRVJuYQe8nVydcM0=s1360-w1360-h1020-rw",
+      "coordinates": {
+        "lat": 38.57435346284155,
+        "lng": 68.79441429656163
       },
       "authorId": 1
     },
@@ -26,7 +86,7 @@
       "title": "Cowork Central Khujand",
       "city": "Khujand",
       "description": "Просторное помещение для креативной работы с видом на реку Сирдарья.",
-      "image": "https://source.unsplash.com/400x300/?coworking,khujand",
+      "image": "https://storage.googleapis.com/lb-images-eu/ua/6673735/2669575-vulitsya-manyuha-19.jpg?v=m1702527923",
       "coordinates": {
         "lat": 40.2839,
         "lng": 69.6352
@@ -38,7 +98,7 @@
       "title": "Kulob IT Space",
       "city": "Kulob",
       "description": "Лучшее место в Кулябе для учёбы, работы и общения.",
-      "image": "https://source.unsplash.com/400x300/?coworking,kulob",
+      "image": "https://www.officelovin.com/wp-content/uploads/2021/07/cobac-coworking-5.jpg",
       "coordinates": {
         "lat": 37.9115,
         "lng": 69.7841

@@ -22,7 +22,7 @@
       "authorId": 1
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "Puzzle",
       "city": "Dushanbe",
       "description": "Puzzle - Современное пространство для стартапов и фрилансеров в центре Душанбе.",
@@ -34,11 +34,11 @@
       "authorId": 1
     },
     {
-      "id": 1,
+      "id": 3,
       "title": "TUT Coworking",
       "city": "Dushanbe",
       "description": "TUT Coworking - Современное пространство для стартапов и фрилансеров в центре Душанбе.",
-      "image": "https://www.google.com/maps/place/TUT+Coworking/@38.5809235,68.793786,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMZ8cNLgCxEXIPA0dj-p-pwunGV5W4I28-DIbQh!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMZ8cNLgCxEXIPA0dj-p-pwunGV5W4I28-DIbQh%3Dw203-h270-k-no!7i3024!8i4032!4m15!1m7!3m6!1s0x38b5d1741926d691:0xd704e7335ef264bf!2sTUT+Coworking!8m2!3d38.5809194!4d68.7940102!16s%2Fg%2F11ssdtfnpf!3m6!1s0x38b5d1741926d691:0xd704e7335ef264bf!8m2!3d38.5809194!4d68.7940102!10e5!16s%2Fg%2F11ssdtfnpf?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D#",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZ2DiUn533uaL84FhPaxqfji6SxuWYGX_XQ&s",
       "coordinates": {
         "lat": 38.58118778456939,
         "lng": 68.79396728498973
@@ -46,11 +46,11 @@
       "authorId": 1
     },
     {
-      "id": 1,
+      "id": 4,
       "title": "Business Incubator Tajikistan",
       "city": "Dushanbe",
       "description": "Business Incubator Tajikistan - Современное пространство для стартапов и фрилансеров в центре Душанбе.",
-      "image": "https://www.google.com/maps/place/Business+Incubator+Tajikistan/@38.5744743,68.7910615,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMJoNztV47fQBuR22mbFnoo9B_U8INxcPEhW-sB!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMJoNztV47fQBuR22mbFnoo9B_U8INxcPEhW-sB%3Dw152-h86-k-no!7i1920!8i1080!4m11!1m2!2m1!1scoworkings+near+Bokhtar!3m7!1s0x38b5d14e27967f19:0x66d1bc91e2d2aab7!8m2!3d38.5743505!4d68.7910615!10e5!15sChdjb3dvcmtpbmdzIG5lYXIgQm9raHRhcloZIhdjb3dvcmtpbmdzIG5lYXIgYm9raHRhcpIBHmJ1c2luZXNzX21hbmFnZW1lbnRfY29uc3VsdGFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSS2VqWjZXV2RuUlJBQuABAPoBBAgAECg!16s%2Fg%2F11jdcy59qt?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D#",
+      "image": "https://nazarov.tj/bizincubator/wp-content/uploads/2022/04/photo_2021-07-07_14-42-17-2.jpg",
       "coordinates": {
         "lat": 38.57615183762021,
         "lng": 68.79209146827982
@@ -58,7 +58,7 @@
       "authorId": 1
     },
     {
-      "id": 1,
+      "id": 5,
       "title": "Regus Coworking",
       "city": "Dushanbe",
       "description": "Regus Coworking - Современное пространство для стартапов и фрилансеров в центре Душанбе.",
@@ -70,7 +70,7 @@
       "authorId": 1
     },
     {
-      "id": 1,
+      "id": 6,
       "title": "Puli Sangin Coworking",
       "city": "Dushanbe",
       "description": "Puli Sangin Coworking - Современное пространство для стартапов и фрилансеров в центре Душанбе.",
@@ -82,7 +82,7 @@
       "authorId": 1
     },
     {
-      "id": 2,
+      "id": 7,
       "title": "Cowork Central Khujand",
       "city": "Khujand",
       "description": "Просторное помещение для креативной работы с видом на реку Сирдарья.",
@@ -94,7 +94,7 @@
       "authorId": 1
     },
     {
-      "id": 3,
+      "id": 8,
       "title": "Kulob IT Space",
       "city": "Kulob",
       "description": "Лучшее место в Кулябе для учёбы, работы и общения.",
@@ -102,6 +102,66 @@
       "coordinates": {
         "lat": 37.9115,
         "lng": 69.7841
+      },
+      "authorId": 1
+    },
+    {
+      "id": 9,
+      "title": "SAMO COWORKING",
+      "city": "Khujand",
+      "description": "SAMO COWORKING - Просторное помещение для креативной работы с видом на реку Сирдарья.",
+      "image": "https://www.servicedoffice.com/logos/profile/0ad6ad70d73ea2050000150954fe6c80.jpeg",
+      "coordinates": {
+        "lat": 40.28605777311373,
+        "lng": 69.62043859511816
+      },
+      "authorId": 1
+    },
+    {
+      "id": 11,
+      "title": "American Space Khujand",
+      "city": "Khujand",
+      "description": "American Space Khujand - Просторное помещение для креативной работы с видом на реку Сирдарья.",
+      "image": "https://tj.usembassy.gov/wp-content/uploads/sites/143/1-1.jpg",
+      "coordinates": {
+        "lat": 40.30373340178211,
+        "lng": 69.63009454774141
+      },
+      "authorId": 1
+    },
+    {
+      "id": 10,
+      "title": "American Space Kulob",
+      "city": "Kulob",
+      "description": "American Space Kulob - Лучшее место в Кулябе для учёбы, работы и общения.",
+      "image": "https://cdn-jdbmd.nitrocdn.com/yEMHtyTSADNOgebFqynalakIQNihDGqu/assets/images/optimized/rev-80fa023/www.officernd.com/wp-content/uploads/2023/02/Kiln-SLC_Carousel-6-1024x683.jpg",
+      "coordinates": {
+        "lat": 37.913495931326345,
+        "lng": 69.80744026947907
+      },
+      "authorId": 1
+    },
+    {
+      "id": 12,
+      "title": "i Co-Working",
+      "city": "Hisor",
+      "description": "i Co-Working - Лучшее место в Гисаре для учёбы, работы и общения.",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPXqlfVJFh-5OXSyhU6JsiL6kGWCN4OJh9KwrF0=w426-h240-k-no",
+      "coordinates": {
+        "lat": 38.58158226321549,
+        "lng": 68.7178950002018
+      },
+      "authorId": 1
+    },
+    {
+      "id": 13,
+      "title": "American Space Bokhtar",
+      "city": "Bokhtar",
+      "description": "American Space Bokhtar - Лучшее место в Курган-Тюбе для учёбы, работы и общения.",
+      "image": "https://cdn.egger.com/img/cms/ff58d5b2-cb11-41dc-ba72-5cec737f1c8a/f9bd3b0c-352c-4bbb-8e80-d1808c9f3cb3/ORIGINAL/cs_habita_coworking_istanbul_separated_offices.jpg?cachekey=51910",
+      "coordinates": {
+        "lat": 37.8450730564096,
+        "lng": 68.77461501905245
       },
       "authorId": 1
     }
@@ -115,7 +175,7 @@
       "rating": 5
     },
     {
-      "id": 2,
+      "id": 7,
       "coworkId": 2,
       "userId": 1,
       "comment": "Приятная атмосфера, но иногда шумно.",

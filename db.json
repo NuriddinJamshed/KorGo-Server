@@ -4,10 +4,63 @@
       "email": "admin@coworks.tj",
       "password": "123456",
       "role": "owner",
-      "id": 1
+      "id": 1,
+      "userName": "Ali"
     }
   ],
-  "coworks": [],
-  "reviews": [],
+  "coworks": [
+    {
+      "id": 1,
+      "title": "Impact Hub Dushanbe",
+      "city": "Dushanbe",
+      "description": "Современное пространство для стартапов и фрилансеров в центре Душанбе.",
+      "image": "https://source.unsplash.com/400x300/?coworking,dushanbe",
+      "coordinates": {
+        "lat": 38.5598,
+        "lng": 68.7870
+      },
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "Cowork Central Khujand",
+      "city": "Khujand",
+      "description": "Просторное помещение для креативной работы с видом на реку Сирдарья.",
+      "image": "https://source.unsplash.com/400x300/?coworking,khujand",
+      "coordinates": {
+        "lat": 40.2839,
+        "lng": 69.6352
+      },
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "title": "Kulob IT Space",
+      "city": "Kulob",
+      "description": "Лучшее место в Кулябе для учёбы, работы и общения.",
+      "image": "https://source.unsplash.com/400x300/?coworking,kulob",
+      "coordinates": {
+        "lat": 37.9115,
+        "lng": 69.7841
+      },
+      "authorId": 1
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "coworkId": 1,
+      "userId": 1,
+      "comment": "Очень удобно, всегда чисто и стабильный интернет!",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "coworkId": 2,
+      "userId": 1,
+      "comment": "Приятная атмосфера, но иногда шумно.",
+      "rating": 4
+    }
+  ],
   "favorites": []
 }
